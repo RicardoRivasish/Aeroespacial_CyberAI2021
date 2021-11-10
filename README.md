@@ -2,7 +2,7 @@
 Desarrollo de propuesta y solución para el Challenge Aeroespacial durante el Hackaton Cyber AI 2021. 
 
 _Equipo 30:_
-**Equipo Copuclosetaras** 
+**Equipo Compuclosetaras** 
 
 ### Dataset:
 
