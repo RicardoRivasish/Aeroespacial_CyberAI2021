@@ -4,6 +4,14 @@ Desarrollo de propuesta y solución para el Challenge Aeroespacial durante el Ha
 _Equipo 30:_
 **Equipo Copuclosetaras** 
 
+## Integrantes:
+* Flores Villaseñor Tlacaelel Jaime
+* García Espinosa David Alexis
+* Luebbert Monje Marisol
+* Rivas Roa Ricardo Eduardo
+
+
+
 ### Dataset:
 
 [The SpaceNet Datasets](https://spacenet.ai/datasets/)
