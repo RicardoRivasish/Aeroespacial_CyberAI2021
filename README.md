@@ -2,24 +2,26 @@
 Desarrollo de propuesta y solución para el Challenge Aeroespacial durante el Hackaton Cyber AI 2021. 
 
 _Equipo 30:_
-**Equipo Compuclosetaras** 
+**Equipo Copuclosetaras** 
 
 ### Dataset:
 
 [The SpaceNet Datasets](https://spacenet.ai/datasets/)
 
-## Reglas:
+## Reglas  Generales:
 
 * Equipos de 2 a 4 personas
 * Tener código y base de datos en la nube, usar repositorio de Github
 * Entregar proyecto dia Domingo 14 de Noviembre previo a las 3:PM (Al ser seleccionado para la ronda final)
 
+## Instrucciones:
+
 **Problema:**
 
 * Cómo crear valor y solucionar problemas basado en el uso de imágenes satelitales
 
-** Solución: **
-Crear soluciones de valor utilizando las [imágenes satelitales](https://spacenet.ai/datasets/) proporcionadas:
+**Solución:**
+* Crear soluciones de valor utilizando las [imágenes satelitales](https://spacenet.ai/datasets/) proporcionadas:
 
 **Ejemplos de posibles soluciones:**
 
