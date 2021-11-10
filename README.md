@@ -9,7 +9,7 @@ _Fecha: 09/11/2021_
 </p>
 
 _Equipo 30:_
-**Equipo Copuclosetaras** 
+**Equipo Compuclosetaras** 
 
 ## Integrantes:
 * Flores Villaseñor Tlacaelel Jaime
