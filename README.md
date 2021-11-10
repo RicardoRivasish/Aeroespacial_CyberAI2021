@@ -34,7 +34,7 @@ _Equipo 30:_
 * De forma creativa crear soluciones creativas con el dataset proprocionado,
 
 
-### **Criterios de Evaluación:**
+## **Criterios de Evaluación:**
 * Creatividad
 * Valor del problema  solucionar
 * Factor Innovacion
