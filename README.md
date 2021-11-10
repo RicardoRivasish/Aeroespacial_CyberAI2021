@@ -2,7 +2,7 @@
 Desarrollo de propuesta y solución para el Challenge Aeroespacial durante el Hackaton Cyber AI 2021. 
 
 <p align="center">
-<a href="https://docs.google.com/presentation/d/1YIfNOfVx3-XdMBY0MFbRV-mi9kRZTBTAKLdNjdyoS8Y/edit#slide=id.g7c8002d35b_0_1"><img src="https://ailabschool.com/wp-content/uploads/2020/04/LOGOTIPOS-AI-LAB-SCHOOL-06-e1588175419984-1-1.png" width="150"/> </a>
+<a href="https://docs.google.com/presentation/d/1YIfNOfVx3-XdMBY0MFbRV-mi9kRZTBTAKLdNjdyoS8Y/edit#slide=id.g7c8002d35b_0_1"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGx1i8oFMeudg/company-logo_200_200/0/1589145540387?e=2159024400&v=beta&t=PyT8o50UTboLv2PMjTJSoVhMkwCBt5Yofv0IRlmJLHs" width="150"/> </a>
 </p>
 
 _Equipo 30:_
