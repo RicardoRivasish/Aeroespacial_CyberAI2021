@@ -1,5 +1,9 @@
-# Aeroespacial_CyberAI2021
+# Aeroespacial CyberAI 2021
 Desarrollo de propuesta y solución para el Challenge Aeroespacial durante el Hackaton Cyber AI 2021. 
+
+<p align="center">
+<a href="https://docs.google.com/presentation/d/1YIfNOfVx3-XdMBY0MFbRV-mi9kRZTBTAKLdNjdyoS8Y/edit#slide=id.g7c8002d35b_0_1"><img src="https://ailabschool.com/wp-content/uploads/2020/04/LOGOTIPOS-AI-LAB-SCHOOL-06-e1588175419984-1-1.png" width="150"/> </a>
+</p>
 
 _Equipo 30:_
 **Equipo Copuclosetaras** 
