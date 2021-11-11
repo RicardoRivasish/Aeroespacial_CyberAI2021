@@ -27,7 +27,7 @@ _Equipo 30:_
 
 * Equipos de 2 a 4 personas
 * Tener código y base de datos en la nube, usar repositorio de Github
-* Entregar proyecto dia Domingo 14 de Noviembre previo a las 3:PM (Al ser seleccionado para la ronda final)
+* Entregar proyecto dia Domingo 14 de Noviembre previo a las 3:00PM (Al ser seleccionado para la ronda final)
 
 ## Instrucciones:
 
