@@ -18,3 +18,7 @@
 > Cliente de AWS para manipular datasets públicos:
 
  `Interfaz de línea de comandos de AWS`
+
+<p align="center">
+<a href="https://registry.opendata.aws/spacenet//"><img src="ejem1.png" width="150"/> </a>
+</p>
