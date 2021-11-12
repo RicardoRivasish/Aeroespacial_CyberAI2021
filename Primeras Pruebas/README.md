@@ -7,4 +7,10 @@
 
 ### Accediendo a los datos con AWS
 
-`prueba`
+`aws s3 ls s3://spacenet-dataset/`
+
+> Tener una cuenta aws y obtener el servidor de comandos por terminal 
+
+> Cliente de AWS para manipular datasets públicos:
+
+`CLI` `Interfaz de línea de comandos de AWS`
