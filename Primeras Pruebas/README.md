@@ -1,7 +1,7 @@
 # Primeros intentos
 
 <p align="center">
-<a href="https://registry.opendata.aws/spacenet//"><img src="https://assets.opendata.aws/img/AWS-Logo_White-Color_300x180.png" width="150"/> </a>
+<a href="https://registry.opendata.aws/spacenet//"><img src="https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg" width="150"/> </a>
 </p>
 
 
