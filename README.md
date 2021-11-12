@@ -3,6 +3,10 @@
 <a href="https://spacenet.ai/sn6-challenge/"><img src="https://spacenet.ai/wp-content/uploads/2020/02/SN6-main-image-300x300.png" width="150"/> </a>
 </p>
 
+<p align="center">
+<a href="https://spacenet.ai/sn6-challenge/"><img src="https://spacenet.ai/wp-content/uploads/2020/02/SN6-image-4-300x300.png" width="150"/> </a>
+</p>
+
 ## Hackathon By Ai Lab School & Hackify League 
 Desarrollo de propuesta y solución para el Challenge Aeroespacial durante el Hackaton Cyber AI 2021.
 
