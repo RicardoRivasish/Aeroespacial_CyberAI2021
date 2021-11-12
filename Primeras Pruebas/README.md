@@ -11,6 +11,10 @@
 
 > Tener una cuenta aws y obtener el servidor de comandos por terminal 
 
+`CLI:` La interfaz de línea de comandos (CLI) es una herramienta unificada para administrar los productos de AWS. Solo tendrá que descargar y configurar una única herramienta para poder controlar varios servicios de AWS desde la línea de comando y automatizarlos mediante secuencias de comandos.
+
+
+
 > Cliente de AWS para manipular datasets públicos:
 
-`CLI` `Interfaz de línea de comandos de AWS`
+ `Interfaz de línea de comandos de AWS`
