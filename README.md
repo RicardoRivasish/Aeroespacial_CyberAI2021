@@ -23,6 +23,15 @@ _Equipo 30:_
 
 [The SpaceNet Datasets](https://spacenet.ai/datasets/)
 
+### Alternativas de Dataset:
+
+* [Dstl Satellite Imagery Feature Detection](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection)
+* [Massachusetts Roads Dataset](https://www.kaggle.com/balraj98/massachusetts-roads-dataset)
+* [Massachusetts Buildings Dataset](https://www.kaggle.com/balraj98/massachusetts-buildings-dataset)
+* [DeepGlobe Road Extraction Dataset](https://www.kaggle.com/balraj98/deepglobe-road-extraction-dataset)
+* [DeepGlobe Land Cover Classification Dataset](https://www.kaggle.com/balraj98/deepglobe-land-cover-classification-dataset)
+* [Spacenet 7 Multi-Temporal Urban Development](https://www.kaggle.com/amerii/spacenet-7-multitemporal-urban-development)
+
 ## Reglas  Generales:
 
 * Equipos de 2 a 4 personas
