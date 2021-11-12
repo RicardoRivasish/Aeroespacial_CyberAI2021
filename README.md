@@ -2,8 +2,6 @@
 <p align="center">
 <a href="https://spacenet.ai/sn6-challenge/"><img src="https://spacenet.ai/wp-content/uploads/2020/02/SN6-main-image-300x300.png" width="150"/> </a>
 <a href="https://spacenet.ai/sn6-challenge/"><img src="https://spacenet.ai/wp-content/uploads/2020/02/SN6-image-4-300x300.png" width="150"/> </a>  
- 
-<a href="https://spacenet.ai/sn6-challenge/"><img src="https://spacenet.ai/wp-content/uploads/2018/10/SpaceNet_Roads-300x300.jpg" width="150"/> </a>  
 </p>
 
 
