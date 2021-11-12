@@ -20,3 +20,7 @@
  `Interfaz de línea de comandos de AWS`
 
 ![Ejemplo](ejem1.png)
+
+**Debido a que no todos los integrantes del equipo contaban con cuenta AWS y que tampoco se cuenta con mucha experiencia en `aws sage maker`**
+
+* Se optó por explorar otras opciones de bases de datos. 
