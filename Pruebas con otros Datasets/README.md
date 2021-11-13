@@ -22,3 +22,9 @@ Para poder entrenar la red neuronal se usó una base de datos obtenida de kaggle
 ![Un resultado](descarga2.png)
 ![Un resultado](descarga4.png)
 
+
+### Trabajo a Futuro:
+
+* Hacer modificaciones a la U-Net para mejorar la identificación de carreteras.
+* Modificar la función de optimización, la función de pérdida y la  métrica.
+* Hacer un preprocesamiento de imágenes.
