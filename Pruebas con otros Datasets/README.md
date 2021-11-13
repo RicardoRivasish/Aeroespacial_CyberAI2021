@@ -11,11 +11,10 @@
 
 ### Método para identificar carreteras:
 
-Para hacer la identificación de las carreteras se usó una [red neuronal convolusional U-Net](https://en.wikipedia.org/wiki/U-Net). De modo que dentro del código se puede ver que se tiene una función de la U-Net llamada "GiveMeUnet" y otra función previamente definida llamada "Conv2dBlock" que nos dará las convolusiones que se usan dentro de la U-Net. La arquitectura del algoritmo U-Net que se uso para este proyecto se muestra en la siguiente imagen: <br> <br> <br>
 
-![U-NET](https://miro.medium.com/max/724/1*Rg1AV1JypEfFHpSFFEnqaA.jpeg)
+Para hacer la identificación de las carreteras se usó una [red neuronal convolusional U-Net](https://en.wikipedia.org/wiki/U-Net). De modo que dentro del código se puede ver que se tiene una función de la U-Net llamada "GiveMeUnet" y otra función previamente definida llamada "Conv2dBlock" que nos dará las convolusiones que se usan dentro de la U-Net. La arquitectura del algoritmo U-Net que se uso para este proyecto se muestra en la siguiente imagen: <br><br><br>
+![U-NET](https://miro.medium.com/max/724/1*Rg1AV1JypEfFHpSFFEnqaA.jpeg)<br><br><br>
 
-<br><br><br>
 Para poder entrenar la red neuronal se usó una base de datos obtenida de kaggle que se puede acceder [desde aquí](https://www.kaggle.com/balraj98/massachusetts-roads-dataset). En esta base de datos hay varias carpetas con metadata, imágenes de entrenamiento y prueba. Dentro de las carpetas de entrenamiento se tiene una carpeta de imágenes obtenidas de satélite y otra carpeta con imágenes de entrenamiento en blanco y negro donde se denotan las carretras con blanco y lo que no es carretera en negro. En el código de python sólo se usaron las carpetas de entrenamiento y prueba. Cabe destacar que para poder usar el algoritmo tuvimos que modificar en el código original el tamaño de las imágenes de 256 a 128.
 
 
