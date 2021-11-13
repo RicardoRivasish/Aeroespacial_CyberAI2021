@@ -5,7 +5,7 @@
 
 ### Código Original de la prueba 2:
 
-[Road maps from Aerial Images](https://www.kaggle.com/vanvalkenberg/road-maps-from-aerial-images)
+* [Road maps from Aerial Images](https://www.kaggle.com/vanvalkenberg/road-maps-from-aerial-images)
 
 ### Algunos resultados:
 
