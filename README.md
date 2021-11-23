@@ -13,7 +13,7 @@ Desarrollo de propuesta y solución para el Challenge Aeroespacial durante el Ha
 _Fecha: 09/11/2021_
 
 <p align="center">
-<a href="https://dataton2021.plataformadigitalnacional.org/preguntas-frecuentes/"><img src="https://user-images.githubusercontent.com/21961197/142713836-6caef6b2-cc26-426b-a5ac-61d33b5fea77.png" width="150"/> </a>
+<a href="https://ailabschool.com/escuela-online-de-inteligencia-artificial/"><img src="hhttps://ailabschool.com/wp-content/uploads/2020/04/LOGOTIPOS-AI-LAB-SCHOOL-06-e1588175419984-1-1.png" width="150"/> </a>
 </p>
 
 _Equipo 30:_
