@@ -1,3 +1,9 @@
+
+
+# Reconocimiento
+
+![https://drive.google.com/drive/u/1/folders/1bnR-1DkJex9SVLBz-4F34gZNT9j8dOpX](RECONOCIMIENTO_Cyber_AI_HACKATHON.png)
+
 ## Identificación de rutas en imágenes satelitales
 
 ### Link a nuestro código en colab.
