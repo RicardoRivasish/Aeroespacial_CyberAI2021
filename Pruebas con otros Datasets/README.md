@@ -32,5 +32,5 @@ Para poder entrenar la red neuronal se usó una base de datos obtenida de kaggle
 
 
 
-# Reconocimientos
+# [Reconocimientos](https://drive.google.com/drive/folders/1bnR-1DkJex9SVLBz-4F34gZNT9j8dOpX?usp=sharing)
  ![https://drive.google.com/drive/u/1/folders/1bnR-1DkJex9SVLBz-4F34gZNT9j8dOpX](RECONOCIMIENTO_Cyber_AI_HACKATHON.png?style=centerme)
