@@ -1,3 +1,11 @@
+
+
+# Reconocimiento
+
+<p align="center">
+<a href="https://ailabschool.com/escuela-online-de-inteligencia-artificial/"><img src="https://drive.google.com/file/d/17ikzIeBxBnK9Fe45yK-ZGtiyEcOlz0ot/view?usp=sharing" width="150"/> </a>
+</p>
+
 ## Identificación de rutas en imágenes satelitales
 
 ### Link a nuestro código en colab.
