@@ -1,9 +1,4 @@
 
-
-# Reconocimiento
-
-![https://drive.google.com/drive/u/1/folders/1bnR-1DkJex9SVLBz-4F34gZNT9j8dOpX](RECONOCIMIENTO_Cyber_AI_HACKATHON.png)
-
 ## Identificación de rutas en imágenes satelitales
 
 ### Link a nuestro código en colab.
@@ -34,3 +29,9 @@ Para poder entrenar la red neuronal se usó una base de datos obtenida de kaggle
 * Hacer modificaciones a la U-Net para mejorar la identificación de carreteras.
 * Modificar la función de optimización, la función de pérdida y la  métrica.
 * Hacer un preprocesamiento de imágenes.
+
+
+
+# Reconocimiento
+
+![https://drive.google.com/drive/u/1/folders/1bnR-1DkJex9SVLBz-4F34gZNT9j8dOpX](RECONOCIMIENTO_Cyber_AI_HACKATHON.png)
