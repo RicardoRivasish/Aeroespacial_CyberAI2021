@@ -2,9 +2,7 @@
 
 # Reconocimiento
 
-<p align="center">
-<a href="https://ailabschool.com/escuela-online-de-inteligencia-artificial/"><img src="https://drive.google.com/file/d/17ikzIeBxBnK9Fe45yK-ZGtiyEcOlz0ot/view?usp=sharing" width="150"/> </a>
-</p>
+![https://drive.google.com/drive/u/1/folders/1bnR-1DkJex9SVLBz-4F34gZNT9j8dOpX](RECONOCIMIENTO_Cyber_AI_HACKATHON.png)
 
 ## Identificación de rutas en imágenes satelitales
 
